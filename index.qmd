@@ -1,0 +1,17 @@
+---
+title: "My first page"
+theme: lux
+editor: visual
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+```{r}
+plot(women)
+```
+
